@@ -36,7 +36,6 @@ module.exports = {
 
 ## 2) Install modules and run client
 ```
-cd client
 npm install
 npm run serve
 ```
